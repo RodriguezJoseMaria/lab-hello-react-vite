@@ -1,0 +1,36 @@
+:root{
+    background-color: white;
+  }
+
+  .nabvar { 
+
+    height: 5rem;
+    margin-left: 3.5rem;
+    margin-right: 33.5rem;
+    /* margin-top: 1rem; */
+    width: 2rem;
+    margin-bottom: 1rem;
+    width: 1.1rem;
+    background-color: rgb(32, 37, 52);
+    height: 27rem;
+    color: white;
+}
+
+.buttonComponent {
+  margin-left: 3rem;
+  margin-top: 2rem;
+  padding: 1rem 1.25rem;
+  border-radius: 3px;
+}
+
+.block {
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    width: 10rem;
+    margin: 0 0.08rem;
+    color: rgb(108, 108, 108);
+    width: 6.5rem;
+}
